@@ -7,7 +7,7 @@ Define automated docker containers playing Ansible playbooks and customizing din
 ## Content
 
 At the moment we have following container images Ansible playbbok driven :
-* [Centos 7](/centos-ansible)
+* [Centos 7](/centos7-ansible)
 * [Jenkins 2.32.3](/jenkins-ansible)
 * [Nexus oss](/nexus-ansible)
 * [SonarQube 6.2](/sonar-ansible)
