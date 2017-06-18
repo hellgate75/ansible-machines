@@ -7,10 +7,11 @@ Define automated docker containers playing Ansible playbooks and customizing din
 ## Content
 
 At the moment we have following container images Ansible playbbok driven :
-* Jenkins
-* Nexus
-* SonarQube
-* PostgreSQL
+* [Centos 7](/centos-ansible)
+* [Jenkins 2.32.3](/jenkins-ansible)
+* [Nexus oss](/nexus-ansible)
+* [SonarQube 6.2](/sonar-ansible)
+* [PostgreSQL 9.6](/postgres-ansible)
 
 Planning on : CouchDb, Convox and other docker images.
 
